@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @AsierGarper, a fullstack developer in .Net Core and Java with a geology background. I have worked as a developer for the last two years doing two coding bootcamps and several training courses in different technologies. 
+👋 Hi, I'm Asier García Pérez (@AsierGarper), a passionate Full-Stack Developer with expertise in Java, Spring Boot, and Angular. Over the last three years, I've transitioned from geology to tech, completing intensive bootcamps and gaining hands-on experience in developing innovative software solutions.
 
-- 👀 I’m interested to get started in the IT world as a junior fullstack developer and be part of larger projects, which involve a great challenge and where I can test everything I have learned and expand my knowledge.
-- 🌱 I’m currently working on NTS developing Mobile applications.
-- 💞️ I’m looking to collaborate in big proyects to increase my knowledge around all new technologies.
-- 📫 How to reach me:
-    -Email: asiergarper@gmail.com
-    -LinkedIn: https://www.linkedin.com/in/asiergarciaperez/
+🌟 I specialize in building scalable, high-performance web applications, with a strong foundation in both front-end and back-end development. My recent work includes developing IoT applications and complex business systems for leading companies, utilizing cutting-edge technologies and agile methodologies.
+
+🚀 I’m eager to join a dynamic team where I can contribute to large-scale projects, tackle new challenges, and continue expanding my technical skills in a fast-paced environment.
+
+🔍 Currently, I'm focusing on enhancing my expertise in backend development and exploring the latest advancements in AI and cloud technologies.
+
+📫 Let’s connect:
+        - Email: asiergarper@gmail.com
+        - LinkedIn: Asier García Pérez
