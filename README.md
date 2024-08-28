@@ -8,4 +8,4 @@
 
 📫 Let’s connect:
         - Email: asiergarper@gmail.com
-        - LinkedIn: Asier García Pérez
+        - LinkedIn: https://www.linkedin.com/in/asiergarciaperez/
